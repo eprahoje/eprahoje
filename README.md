@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👨‍💻 Hello, World!
+Meu nome é Gabriel, mas normalmente me chamam de Gabs! Tenho 24 anos, sou ator profissional com especialização em dublagem. Atualmente, sou estudante de Análise e Desenvolvimento de sistemas no SENAC SP e sou apaixonado por videogames e cinema.
 
-<!--
-**eprahoje/eprahoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Redes sociais
+<div align = "left">
+    <a href="https://www.linkedin.com/in/gabriel-rodrigues-7227a8260/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-28995d?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/gabsrodrigues.dub/" target ="_blank"><img src="https://img.shields.io/badge/-Instagram-28995d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+<p>
+  <img loadind="lazy" alt="Badge HTML5" src ="https://img.shields.io/badge/HTML5-FF8408">
+  <img loading="lazy" alt="Badge CSS3" src="https://img.shields.io/badge/CSS3-blue">
+  <img loading="lazy" alt="Badge JavaScript" src="https://img.shields.io/badge/JavaScript-FFDE08">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Bibliotecas e Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
