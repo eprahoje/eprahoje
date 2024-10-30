@@ -1,5 +1,5 @@
 # 👨‍💻 Hello, World!
-Meu nome é Gabriel, mas normalmente me chamam de Gabs! Tenho 24 anos, sou ator profissional com especialização em dublagem. Atualmente, sou estudante de Análise e Desenvolvimento de sistemas no SENAC SP e sou apaixonado por videogames e cinema.
+Meu nome é Gabriel, mas normalmente me chamam de Gabs! Tenho 25 anos, sou ator profissional com especialização em dublagem. Atualmente, sou estudante de Análise e Desenvolvimento de sistemas no SENAC SP e sou apaixonado por videogames e cinema.
 
 ## 🔗 Redes sociais
 <div align = "left">
